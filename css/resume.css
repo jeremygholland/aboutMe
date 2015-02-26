@@ -1,0 +1,17 @@
+
+.date{margin-left:50%;
+		text-align: center;}
+.date1{margin-left:33%;
+		text-align: center}
+
+#github{margin-left:40%;}
+#twitter{margin-left: 25%;}
+#mail{margin-left: 80%}
+#name{margin-left:8%;}
+
+body {font-family: arial}
+
+#top{border-bottom: 2px solid #C24800;}
+#body{margin-top: 2%}
+#skills{border-right: 2px solid #C24800;
+		height: relative;}
